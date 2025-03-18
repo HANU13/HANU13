@@ -34,6 +34,16 @@ Here are some ideas to get you started:
 ---
 [![](https://visitcount.itsvg.in/api?id=HANU13&icon=0&color=0)]
 
+<div align="center">
+<table>
+  <tr>
+    <td>𝚈𝚘𝚞 𝚊𝚛𝚎 𝚟𝚒𝚜𝚒𝚝𝚘𝚛</td>
+    <td><img src="https://profile-counter.glitch.me/Gchism94/count.svg" alt="" /></td>
+  </tr>
+</table>
+</div>
+
+
 ## 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Litemax) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/HanuKoshti) 
 
