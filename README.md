@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td>𝚈𝚘𝚞 𝚊𝚛𝚎 𝚟𝚒𝚜𝚒𝚝𝚘𝚛</td>
-    <td><img src="https://profile-counter.glitch.me/Gchism94/count.svg" alt="" /></td>
+    <td><img src="https://profile-counter.glitch.me/HANU13/count.svg" alt="" /></td>
   </tr>
 </table>
 </div>
