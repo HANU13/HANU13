@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-![Visitor Count](https://profile-counter.glitch.me/{HANU13}/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=HANU13&label=Visitors&color=0e75b6&style=flat)
 
 
 ## 💰 You can help me by Donating
