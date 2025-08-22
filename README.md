@@ -32,16 +32,7 @@ Here are some ideas to get you started:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-<!-- [![](https://visitcount.itsvg.in/api?id=HANU13&icon=0&color=0)] -->
-
-<div align="center">
-<table>
-  <tr>
-    <td>𝚈𝚘𝚞 𝚊𝚛𝚎 𝚟𝚒𝚜𝚒𝚝𝚘𝚛</td>
-    <td><img src="https://profile-counter.glitch.me/HANU13/count.svg" alt="" /></td>
-  </tr>
-</table>
-</div>
+[![](https://visitcount.itsvg.in/api?id=HANU13&icon=0&color=0)]
 
 
 ## 💰 You can help me by Donating
